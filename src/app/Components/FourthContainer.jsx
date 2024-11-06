@@ -18,7 +18,7 @@ export default function FourthContainer(){
                     
                 </div>
 
-                <div className="flex flex-col items-center justify-center gap-5  bg-slate-100/10 border border-white rounded p-5">
+                <div className="flex flex-col gap-10 bg-slate-100/10 border border-white rounded p-5 text-center">
                     <h1 className="text-xl font-bold tracking-tighter text-center">Attention to Detail</h1>
                     <p className="text-justify tracking-tighter leading-5">From the initial concept to the final touches, we pay meticulous attention to every detail to achieve perfection</p>
 
