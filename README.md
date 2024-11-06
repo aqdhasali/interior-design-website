@@ -7,4 +7,4 @@ This is a minimal and elegant interior architecture website showcasing the workf
 ![Screenshot (364)](https://github.com/user-attachments/assets/e7cb8711-e864-4332-9e2c-d64a4a854f07)
 ![Screenshot (365)](https://github.com/user-attachments/assets/ac0dd006-9bbe-4ef9-9fc9-9197873c897f)
 ![Screenshot (366)](https://github.com/user-attachments/assets/845c11e3-1b69-4b94-a7b4-0fc268e124ba)
-![Screenshot (367)](https://github.com/user-attachments/assets/d8c7a6d9-c77d-41f0-a657-1e996c242fe8)
+![Screenshot (367)](https://github.com/user-attachments/assets/a03db4d1-e8d3-4c73-a0fc-8fe04bc684ae)
