@@ -6,7 +6,6 @@ import SecondContainer from "./Components/SecondContainer";
 import ThirdContainer from "./Components/ThirdContainer";
 import FourthContainer from "./Components/FourthContainer";
 import FifthContainer from "./Components/FifthContainer";
-import Footer from "./Components/footer";
 import Keela from "./Components/Keela";
 const inter = Inter({
   weight: ['400', '700','900'],  // Specify the font weights

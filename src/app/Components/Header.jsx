@@ -11,9 +11,9 @@ const inter = Inter({
 export default function Header(){
     return (
         <div>
-            <nav className="w-full">
-                <div className="m-auto p-auto">
-                    <div className={` ${inter.className} tracking-tight shadow-lg flex justify-center items-center h-16`}>
+            <nav className="">
+                <div className="pr-5">
+                    <div className={` ${inter.className} text-center flex ml-10 lg:ml-auto items-center justify-center lg:justify-end lg:items-end h-16`}>
                         <ul className="flex space-x-5">
                             <li>
                                 <Link href={"/"}>Home</Link>

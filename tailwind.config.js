@@ -9,10 +9,15 @@ module.exports = {
     extend: {
       colors: {
         olivegreen: "#214e34",
+        darkgreen: "#0f341f",
       },
 
       backgroundImage: {
-        'home': "url('/home.jpeg')",
+        'home': "url('/lr.jpeg')",
+      },
+
+      animation:{
+        'spin-slow': 'spin 4s linear infinite',
       },
     },
   },

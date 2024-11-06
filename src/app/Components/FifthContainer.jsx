@@ -1,6 +1,6 @@
 export default function FifthContainer(){
     return(
-        <div className="mt-20 m-10 flex gap-20">
+        <div className="min-h-screen mt-20 m-10 flex flex-col lg:flex-row gap-20">
 
             <div className="flex flex-col gap-10">
                 <div>
@@ -16,7 +16,7 @@ export default function FifthContainer(){
                 
             </div>
 
-            <div className="grid grid-cols-2 gap-10">
+            <div className="grid g lg:grid-cols-2 gap-10">
                 <div className="justify-center items-center p-5 flex gap-5 bg-slate-100/10 border border-white rounded">
                     <div>
                         <h2 className="text-8xl font-bold">1</h2>
